@@ -1,4 +1,0 @@
-A recent competition on Kaggle wanted the machine learning community to predict which products purchased over time 
-by a customer will be ordered again in the near future. Instacart, a grocery ordering & delivery company was involved in this contest and 
-supplied the information in anonimity.
-
